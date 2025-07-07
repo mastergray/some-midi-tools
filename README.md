@@ -120,6 +120,6 @@ Each JSON song file must be an object with:
 }
 ```
 
-### Full Disclosure
+## Full Disclosure
 
 This was also a test to just have ChatGPT wrtie code with little of my input, and it seems to work. So I guess this is my first "vibe code" project. Neat...
